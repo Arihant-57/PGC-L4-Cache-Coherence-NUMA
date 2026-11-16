@@ -1,0 +1,9 @@
+false_sharing
+numa_sweep
+compare_numa
+*.exe
+*.out
+*.o
+__pycache__/
+.DS_Store
+Thumbs.db
